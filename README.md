@@ -1,2 +1,2 @@
-# shristi-furniture
+# Ayush Vishwakarma
 /Users/ayushvishwakarma/Desktop/index.html
